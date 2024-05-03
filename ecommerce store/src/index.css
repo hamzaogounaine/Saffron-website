@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    @apply duration-300 ease-in-out 
+    
+}
+*{
+    font-family: "Josefin Sans", sans-serif;
+}
